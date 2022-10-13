@@ -1,0 +1,13 @@
+.container {
+    margin: 15em auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+  }
+
+  p {
+    font-weight: bold;
+  }
